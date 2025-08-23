@@ -43,7 +43,7 @@
     - Method area() returns area.
 
 11. Bank Account Class
-    - A `BankAccounclass with `ownerName`, `balance`
+    - A `BankAccount` class with `ownerName`, `balance`
     - Constructor sets initial balance
     - Methods: `deposit(amount)`, `withdraw(amount)`, `display()`.
 
