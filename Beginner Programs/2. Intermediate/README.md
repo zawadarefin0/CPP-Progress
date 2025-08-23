@@ -40,7 +40,7 @@
 10. Rectangle Class
     - A `rectangle` class with `length` and `width`
     - A constructor initialises them
-    - Method area() returns area.
+    - Method `area()` returns area.
 
 11. Bank Account Class
     - A `BankAccount` class with `ownerName`, `balance`
