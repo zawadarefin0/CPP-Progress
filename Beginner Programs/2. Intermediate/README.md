@@ -1,5 +1,5 @@
 ### GPT Prompt:
-```create some more practice programs for beginner manipulation of arrays (no multidimentional arrays), classes with like constructors, structs and enums, and simple OOP with no inheritance or encapsulation or anything too advanced just yet```
+`create some more practice programs for beginner manipulation of arrays (no multidimentional arrays), classes with like constructors, structs and enums, and simple OOP with no inheritance or encapsulation or anything too advanced just yet`
 
 ### Programs: 
 #### Arrays
